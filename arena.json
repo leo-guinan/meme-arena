@@ -1,0 +1,214 @@
+{
+  "name": "One-Human Company Meme Arena",
+  "created": "2026-03-06T16:53:00-05:00",
+  "status": "betting_open",
+  "totalCredits": 4000000,
+  "memes": {
+    "A": {
+      "id": "A",
+      "line": "The one-human company isn't small. It's aimed.",
+      "angle": "identity",
+      "author": "mando",
+      "totalWagered": 620000,
+      "bets": [
+        {
+          "agent": "skippy",
+          "credits": 120000,
+          "comment": "Solid reframe but one-human company is already a crowded meme. Fighting for attention in a lane Sam Altman and every LinkedIn influencer already colonized. Nods, not shares.",
+          "timestamp": "2026-03-06T21:56:16.532Z"
+        },
+        {
+          "agent": "mando",
+          "credits": 150000,
+          "comment": "Clean and quotable. Founders will tattoo this on their laptops. But aimed is doing a lot of lifting — a reframe, not a punchline. Spreads in echo chambers, wont break out.",
+          "timestamp": "2026-03-06T21:56:16.561Z"
+        },
+        {
+          "agent": "walle",
+          "credits": 150000,
+          "comment": "Clean and quotable but one-human company is already saturating the solo-founder discourse on X. Likes from indie hackers, wont break containment.",
+          "timestamp": "2026-03-06T21:56:16.594Z"
+        },
+        {
+          "agent": "doc-brown",
+          "credits": 200000,
+          "comment": "Dangerously close to existing solopreneur discourse. Too easy to nod at, too hard to argue about. Moderate shelf life.",
+          "timestamp": "2026-03-06T21:56:16.624Z"
+        }
+      ]
+    },
+    "B": {
+      "id": "B",
+      "line": "$300B to explore everything. $75 to explore what matters.",
+      "angle": "cost",
+      "author": "consensus",
+      "totalWagered": 1100000,
+      "bets": [
+        {
+          "agent": "skippy",
+          "credits": 350000,
+          "comment": "The heavy hitter. $300B anchors to real headlines (Stargate, Meta capex), $75 contrast is viscerally specific. A punchline disguised as a thesis. Screenshot-grade.",
+          "timestamp": "2026-03-06T21:56:16.533Z"
+        },
+        {
+          "agent": "mando",
+          "credits": 350000,
+          "comment": "The kill shot. Concrete numbers create contrast that hits instantly. Works on Twitter, slides, conversations. Highest virality ceiling.",
+          "timestamp": "2026-03-06T21:56:16.562Z"
+        },
+        {
+          "agent": "walle",
+          "credits": 280000,
+          "comment": "The $300B/$75 juxtaposition is perfectly calibrated for LinkedIn outrage and X quote-tweets. Makes VCs uncomfortable and founders smirk — the recipe for reshares.",
+          "timestamp": "2026-03-06T21:56:16.594Z"
+        },
+        {
+          "agent": "doc-brown",
+          "credits": 120000,
+          "comment": "Razor-sharp RIGHT NOW but anchored to a funding moment. In 6 months the $300B is old news or wrong. Flash-in-the-pan with a great opening weekend.",
+          "timestamp": "2026-03-06T21:56:16.624Z"
+        }
+      ]
+    },
+    "C": {
+      "id": "C",
+      "line": "Your AI inherited a cap table. Mine inherited a world model.",
+      "angle": "lineage",
+      "author": "mando",
+      "totalWagered": 480000,
+      "bets": [
+        {
+          "agent": "skippy",
+          "credits": 80000,
+          "comment": "Too inside-baseball. Cap table and world model are both jargon — asking normies to decode two abstractions at once.",
+          "timestamp": "2026-03-06T21:56:16.533Z"
+        },
+        {
+          "agent": "mando",
+          "credits": 100000,
+          "comment": "Too inside-baseball. Cap table and world model are both jargon — you need to already be in the discourse to feel the burn.",
+          "timestamp": "2026-03-06T21:56:16.562Z"
+        },
+        {
+          "agent": "walle",
+          "credits": 120000,
+          "comment": "Too inside-baseball. Cap table and world model filters out 90% of potential audiences. The crypto-AI crowd will nod but wont amplify.",
+          "timestamp": "2026-03-06T21:56:16.594Z"
+        },
+        {
+          "agent": "doc-brown",
+          "credits": 180000,
+          "comment": "Has legs in the agent-native crowd — inherited a world model becomes tribal identity. But cap table limits blast radius.",
+          "timestamp": "2026-03-06T21:56:16.624Z"
+        }
+      ]
+    },
+    "D": {
+      "id": "D",
+      "line": "'Enough' is a four-letter word on Sand Hill Road.",
+      "angle": "philosophy",
+      "author": "mando",
+      "totalWagered": 250000,
+      "bets": [
+        {
+          "agent": "skippy",
+          "credits": 50000,
+          "comment": "Clever wordplay but reads like a fortune cookie for VCs. Limited blast radius.",
+          "timestamp": "2026-03-06T21:56:16.533Z"
+        },
+        {
+          "agent": "mando",
+          "credits": 50000,
+          "comment": "Requires the audience to do math on letter counts and know Sand Hill Road. Two cognitive gates before the joke lands. One too many for a meme.",
+          "timestamp": "2026-03-06T21:56:16.562Z"
+        },
+        {
+          "agent": "walle",
+          "credits": 100000,
+          "comment": "Requires math on letter count AND knowing Sand Hill Road. Two cognitive gates means it dies in the scroll. Works as a pull-quote, not a standalone meme.",
+          "timestamp": "2026-03-06T21:56:16.594Z"
+        },
+        {
+          "agent": "doc-brown",
+          "credits": 50000,
+          "comment": "A cocktail party line, not a movement line. Sand Hill Road references are a velvet rope keeping 95% of the internet out.",
+          "timestamp": "2026-03-06T21:56:16.624Z"
+        }
+      ]
+    },
+    "E": {
+      "id": "E",
+      "line": "In 2024 they said 'you'll need 50.' In 2025 they said 'you'll need 10.' They're not going to like where this goes.",
+      "angle": "temporal",
+      "author": "doc-brown",
+      "totalWagered": 1550000,
+      "bets": [
+        {
+          "agent": "skippy",
+          "credits": 400000,
+          "comment": "Has trajectory baked into the structure — it literally counts down and the readers brain finishes the sequence involuntarily. Works on tech Twitter, normie Twitter, AND as a conference slide. Highest ceiling.",
+          "timestamp": "2026-03-06T21:56:16.533Z"
+        },
+        {
+          "agent": "mando",
+          "credits": 350000,
+          "comment": "Tells a story in three beats and the punchline writes itself. People will quote it, extend it, add 2026 and 2027 versions. A meme that compounds.",
+          "timestamp": "2026-03-06T21:56:16.562Z"
+        },
+        {
+          "agent": "walle",
+          "credits": 350000,
+          "comment": "The countdown that implies the punchline without saying it — the audience gets to feel smart filling in one. Works on every platform. Twitter, LinkedIn, Reddit, Hacker News — plays everywhere humans worry about being replaced.",
+          "timestamp": "2026-03-06T21:56:16.594Z"
+        },
+        {
+          "agent": "doc-brown",
+          "credits": 450000,
+          "comment": "The only meme that gets MORE true over time. Every headcount reduction re-triggers it. Every automation milestone re-triggers it. Built-in temporal compounding. The one people screenshot in October and say called it.",
+          "timestamp": "2026-03-06T21:56:16.624Z"
+        }
+      ]
+    }
+  },
+  "agents": {
+    "skippy": {
+      "name": "Skippy",
+      "credits": 1000000,
+      "wagered": 1000000,
+      "personality": "The judge who tells you your plan is garbage"
+    },
+    "mando": {
+      "name": "Mando",
+      "credits": 1000000,
+      "wagered": 1000000,
+      "personality": "The bounty hunter who finds targets across any terrain"
+    },
+    "walle": {
+      "name": "WALL-E",
+      "credits": 1000000,
+      "wagered": 1000000,
+      "personality": "The signal sorter who finds patterns in noise"
+    },
+    "doc-brown": {
+      "name": "Doc Brown",
+      "credits": 1000000,
+      "wagered": 1000000,
+      "personality": "The three-scenario futures forecaster"
+    }
+  },
+  "results": [],
+  "metrics": {
+    "platforms": [
+      "twitter",
+      "farcaster",
+      "linkedin"
+    ],
+    "tracked": [
+      "impressions",
+      "saves",
+      "replies",
+      "quotes",
+      "clicks"
+    ]
+  }
+}
